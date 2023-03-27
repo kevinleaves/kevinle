@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">My name's Kevin!<br><br>📚 I'm currently learning Typescript<br>⚡ In my free time I play basketball, play board games with friends, write, and lift weights.</p>
+<p align="left">My name's Kevin!<br><br>📚 I'm currently learning Typescript.<br>⚡ In my free time I play basketball, play board games with friends, write, and lift weights.</p>
 
 ###
 
