@@ -25,12 +25,11 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">My name's Kevin!<br><br>📚 I'm currently building a project using the [T3 stack](https://create.t3.gg).
-<br>⚡ In my free time I play basketball, play board games with friends, write, and lift weights.</p>
+<p align="left">My name's Kevin!<br><br>⚡ In my free time I play basketball, write, and lift weights.
+</p>
 
 ###
-
+📚 I'm currently building a project using the [T3 stack](https://create.t3.gg).
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
