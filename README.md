@@ -25,7 +25,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">My name's Kevin!<br><br>⚡ In my free time I play basketball, write, and lift weights.
+<p align="left">My name's Kevin!<br><br>⚡ I have a passion for writing clean code, designing scalable web application architecture, and crafting user experiences that mimic the feeling you get when you level up in a video game. In my free time I enjoy playing single player RPG's, journaling, attending music festivals, lifting weights, and playing basketball.
 </p>
 
 ###
