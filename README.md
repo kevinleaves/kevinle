@@ -29,7 +29,7 @@
 </p>
 
 ###
-📚 I'm currently building a project using the [T3 stack](https://create.t3.gg).
+📚 I'm currently learning Java & Spring Boot.
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
