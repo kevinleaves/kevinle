@@ -29,7 +29,7 @@
 </p>
 
 ###
-📚 I'm currently learning Java & Spring Boot.
+📚 I'm currently working on integrating a CMS into my portfolio to manage blog content & introducing an email newsletter that others can subscribe to.
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
