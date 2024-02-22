@@ -29,7 +29,9 @@
 </p>
 
 ###
-📚 I'm currently working on integrating a CMS into my portfolio to manage blog content & introducing an email newsletter that others can subscribe to.
+📚 I'm currently learning data structures and algorithms via [OpenDSA's curriculum](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/index.html), while doing LeetCode Problems and following [this roadmap](https://neetcode.io/practice).
+
+Here's [my Leetcode profile](https://leetcode.com/iamkevinvle/).
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
